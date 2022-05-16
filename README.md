@@ -18,6 +18,14 @@ This is an ongoing list and classification or survey of advancments in the AI co
   - *cult*: "Deep Learning" [Ian Goodfellow; book; 2016](https://www.deeplearningbook.org/)
   - *cult*: "Deep Learning with Python" [François Chollet; book; 2018](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
 
+#### Architectures
+
+- Multilayer Perceptron (MLP)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Generative Adverserial Networks (GAN)
+- Transformer Networks
+  - *cult*: "Attention is all you need"
 
 
 #### Self-Supervised Learning
@@ -25,25 +33,35 @@ This is an ongoing list and classification or survey of advancments in the AI co
 - Overview
   - *introductionary*: "The rise of self-supervised learning" [Jonathan Bgn; blog post; 2020-12-03](https://jonathanbgn.com/2020/12/31/self-supervised-learning.html)
   - *cult*: "Self-supervised learning: The dark matter of intelligence" [Meta AI; blog post; 2021-03-04](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+  - *cult*: "Energy-Based Models for Self-Supervised Learning" [Yann LeCun; YouTube; 2020-11-11](https://www.youtube.com/watch?v=BqgnnrojVBI)
 
 - Natural Language Processing (NLP)
   - Autoregressive Language Modeling (predicting next word):
     - GPT-1/2/3
-  - Masked Language Modeling (predicting missing words):
+  - Masked Language Modeling (predicting missing words, Denoising Autoencoder):
     - *cult*: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [Google; blog post + paper; 2018-11-02](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
   - Context Learning / Word Embeddings:
     - word2vec
     - GLoVe
 
 - Computer Vision (CV)
-  - Contrastive Learning:
+  - Contrastive Learning: *need lot of data and predominantly negative pairs (hard negative mining) -> sampling*
     - *cult*: "SimCLR: A Simple Framework for Contrastive Learning of Visual Representations" [Google; paper + github; 2020-06-17](https://github.com/google-research/simclr)
+  - Denoising AE (Image Inpainting): *reconstructing good BUT latent variables are bad for downstream tasks*
+    - GANs
+  - Non Contrastive Embedding: *non-contrastive methods for latent-variable energy-based model (for image, video, speech, and other signals)*
+    - way to go for the future: "most promising ways to build machines that have the background knowledge, or 'common sense'" (Yan LeCun, Meta AI)
+    - *cult*: "SEER: The start of a more powerful, flexible, and accessible era for computer vision" [2021-03-04](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision/)
 
+- Automatic Speech Recognition (ASR)
+  - Contrastive Learning:
+    - wave2vec
 
 #### Generative Models
 
 - CV:
   - Generative Adverserial Networks (GAN) 
+  - Variational Autoencoder (VAE)
   - DALL-E
 
 
