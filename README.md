@@ -33,6 +33,7 @@ This is an ongoing list and classification or survey of advancments in the AI co
 - Overview
   - *introductionary*: "The rise of self-supervised learning" [Jonathan Bgn; blog post; 2020-12-03](https://jonathanbgn.com/2020/12/31/self-supervised-learning.html)
   - *cult*: "Self-supervised learning: The dark matter of intelligence" [Meta AI; blog post; 2021-03-04](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+    - Video explanation of blog post [Yannic Kilcher; YouTube; 2021-03-11](https://www.youtube.com/watch?v=Ag1bw8MfHGQ)  
   - *cult*: "Energy-Based Models for Self-Supervised Learning" [Yann LeCun; YouTube; 2020-11-11](https://www.youtube.com/watch?v=BqgnnrojVBI)
 
 - Natural Language Processing (NLP)
@@ -52,6 +53,8 @@ This is an ongoing list and classification or survey of advancments in the AI co
   - Non Contrastive Embedding: *non-contrastive methods for latent-variable energy-based model (for image, video, speech, and other signals)*
     - way to go for the future: "most promising ways to build machines that have the background knowledge, or 'common sense'" (Yan LeCun, Meta AI)
     - *cult*: "SEER: The start of a more powerful, flexible, and accessible era for computer vision" [2021-03-04](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision/)
+      - uses SwAV
+    - BYOL from DeepMind
 
 - Automatic Speech Recognition (ASR)
   - Contrastive Learning:
