@@ -22,7 +22,7 @@ This is an ongoing list and classification or survey of advancments in the AI co
 #### Fundamentals
 
 - *introductionary*: "Yes you should understand backprop" [Andrej Karparthy; blog; 2016](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
-- 
+  - "Lecture 4: Backpropagation, Neural Networks 1" [Andrej Karparthy; YouTube; 2016](https://www.youtube.com/watch?v=i94OvYb6noo) 
 
 #### Architectures
 
