@@ -19,6 +19,9 @@ This is an ongoing list and classification or survey of advancments in the AI co
   - *cult*: "Deep Learning with Python" [François Chollet; book; 2018](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
   - "Applications of Deep Neural Networks with keras" [Jeff Heaton; book; 2020](https://arxiv.org/pdf/2009.05673.pdf) 
 
+- General websites etc.
+  - Papers, resources, guides, blogs, interviews etc. on Application of ML and its systems: https://applyingml.com/)
+
 #### Fundamentals
 
 - *introductionary*: "Yes you should understand backprop" [Andrej Karparthy; blog; 2016](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
