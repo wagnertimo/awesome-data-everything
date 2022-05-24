@@ -20,7 +20,8 @@ This is an ongoing list and classification or survey of advancments in the AI co
   - "Applications of Deep Neural Networks with keras" [Jeff Heaton; book; 2020](https://arxiv.org/pdf/2009.05673.pdf) 
 
 - General websites etc.
-  - Papers, resources, guides, blogs, interviews etc. on Application of ML and its systems: https://applyingml.com/)
+  - Papers, resources, guides, blogs, interviews etc. on Application of ML and its systems: https://applyingml.com/
+  - Full-Stack Deep Learning YouTube channel: https://www.youtube.com/c/FullStackDeepLearning
 
 #### Fundamentals
 
