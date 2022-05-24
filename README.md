@@ -82,6 +82,7 @@ This is an ongoing list and classification or survey of advancments in the AI co
 - Architecture / Concepts
   - *introductionary*: "MLOps Architecture Guide" [Neptune AI; blog post; 2022-03-31](https://neptune.ai/blog/mlops-architecture-guide)
   - *cult*: "Hidden Technical Debt in Machine Learning Systems" [Google; paper; 2015-01](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+  - "Building an ML Platform from Scratch: Live Coding Session" [MLOps Community ; YouTube; 2021](https://www.youtube.com/watch?v=s8Jj9gzQ3xA)
 
 - Tools
   - "A curated list of MLOps projects" [MLOps.toys](https://mlops.toys/feature-store)
