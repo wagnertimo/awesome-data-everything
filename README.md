@@ -82,6 +82,8 @@ This is an ongoing list and classification or survey of advancments in the AI co
 
 - Architecture / Concepts
   - *introductionary*: "MLOps Architecture Guide" [Neptune AI; blog post; 2022-03-31](https://neptune.ai/blog/mlops-architecture-guide)
+  - *cult*: "Machine Learning: The High-Interest Credit Card of Technical Debt" [Google; paper; 2014](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
+  - *cult*: "The ML Test Score: A Rubric for ML Production Readiness and Technical Debt Reduction" [Google; paper; 2017](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/aad9f93b86b7addfea4c419b9100c6cdd26cacea.pdf)
   - *cult*: "Hidden Technical Debt in Machine Learning Systems" [Google; paper; 2015-01](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
   - "Building an ML Platform from Scratch: Live Coding Session" [MLOps Community ; YouTube; 2021](https://www.youtube.com/watch?v=s8Jj9gzQ3xA)
 
