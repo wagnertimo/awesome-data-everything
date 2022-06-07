@@ -92,3 +92,10 @@ This is an ongoing list and classification or survey of advancments in the AI co
 
 - Tools
   - "A curated list of MLOps projects" [MLOps.toys](https://mlops.toys/feature-store)
+  - "MetaFlow: makes it easy to build and manage real-life data science projects" [Outerbounds](https://outerbounds.com/)
+  - DVC
+  - MLFlow
+  - KubeFlow
+  - Weights&Biases
+  - Neptune.AI
+  - Feast
