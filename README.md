@@ -99,3 +99,6 @@ This is an ongoing list and classification or survey of advancments in the AI co
   - Weights&Biases
   - Neptune.AI
   - Feast
+ 
+ - Cloud Use Cases
+   - Comparison of AWS, Google and Azure cloud providers [Convergence: Machine-learning and cloud technology blog; blogpost; 2014-10](https://aawasthi.blogspot.com/2014/10/cloud-nomenclature-aws-google-azure.html) 
