@@ -101,4 +101,5 @@ This is an ongoing list and classification or survey of advancments in the AI co
   - Feast
  
  - Cloud Use Cases
-   - Comparison of AWS, Google and Azure cloud providers [Convergence: Machine-learning and cloud technology blog; blogpost; 2014-10](https://aawasthi.blogspot.com/2014/10/cloud-nomenclature-aws-google-azure.html) 
+   - Comparison of AWS, Google and Azure cloud providers [Convergence: Machine-learning and cloud technology blog; blogpost; 2014-10](https://aawasthi.blogspot.com/2014/10/cloud-nomenclature-aws-google-azure.html)
+   - Data Engineering on Google Cloud, Video Course [YouTube; 2021-11](https://www.youtube.com/watch?v=7TYLYjaHB64&list=PLmI_IVYHB9Fred0mR-280Uro9HOH9Lo98)
