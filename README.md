@@ -1,10 +1,10 @@
-# AI or Deep Learning Resources
+# Machine Learning Resources
 
 ## About
 
-A curated list of deep learning articles, blog posts, papers, projects or repositories capturing the evolution of AI models; predominantly Deep Learning advancements.
+A curated list of machine learning articles, blog posts, papers, projects or repositories capturing the evolution of ML models and engineering; predominantly Deep Learning advancements.
 
-This is an ongoing list and classification or survey of advancments in the AI community. It briefly elaborates notions and lists literature reviews for further exploration. The main goal of the list is to demonstrate different research fields, latest and past, and their evolution, dependence or 
+This is an ongoing list and classification or survey of advancments in the ML community. It briefly elaborates notions and lists literature reviews for further exploration. The main goal of the list is to demonstrate different research fields, latest and past, and their evolution, dependence or 
 
 > NOTE: reading bullets are classified in:
 > - *introductionary*: lightweight, semi-sientific, brief overview, non-famous researcher
@@ -19,7 +19,10 @@ This is an ongoing list and classification or survey of advancments in the AI co
   - *cult*: "Deep Learning with Python" [François Chollet; book; 2018](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
   - "Applications of Deep Neural Networks with keras" [Jeff Heaton; book; 2020](https://arxiv.org/pdf/2009.05673.pdf) 
 
-- General websites etc.
+- Philosophical debates
+  - *cult*: "What AI Can Tell Us About Intelligence: Can deep learning systems learn to manipulate symbols?" [Yann LeCun & Jacob Browning; Blog; 2022-06](https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/)
+
+- General resources
   - Papers, resources, guides, blogs, interviews etc. on Application of ML and its systems: https://applyingml.com/
   - Full-Stack Deep Learning YouTube channel: https://www.youtube.com/c/FullStackDeepLearning
 
@@ -77,6 +80,17 @@ This is an ongoing list and classification or survey of advancments in the AI co
   - Variational Autoencoder (VAE)
   - DALL-E
 
+#### Generative Models
+
+- DALL-E series: "" []()
+- GPT series:
+  - GPT: "diverse language tasks with a scalable, task-agnostic system" [OpenAI; Blog & Paper; 2018-06](https://openai.com/blog/language-unsupervised/)
+  - GPT-2: "a successor to GPT was trained simply to predict the next word in 40GB of Internet text. A large transformer-based language model with 1.5 billion parameters, trained on a dataset of 8 million web pages." [OpenAI; Blog & Paper; 2019-02](https://openai.com/blog/better-language-models/) 
+  - GPT-3: "an autoregressive language model with 175 billion parameters" [OpenAI; Blog & Paper; 2020-05](https://openai.com/blog/openai-api/) 
+- Gato: "A Generalist Agent: a multi-modal, multi-task, multi-embodiment generalist policy" [DeepMind; Blog & Paper; 2022-05](https://www.deepmind.com/publications/a-generalist-agent)
+- Flamingo: "a single visual language model (VLM) for few-shot learning on a wide range of open-ended multimodal tasks" [DeepMind; Blog & Paper; 2022-04](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
+- LaMDA: "LLM trained on dialogue" [Google; Blog & Paper, 2021-05](https://blog.google/technology/ai/lamda/)
+- PaLM: "a 540-billion parameter, dense decoder-only Transformer model trained with the Pathways system" [Google; Blog & Paper; 2022-04](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 
 ### MLOps
 
@@ -103,3 +117,11 @@ This is an ongoing list and classification or survey of advancments in the AI co
  - Cloud Use Cases
    - Comparison of AWS, Google and Azure cloud providers [Convergence: Machine-learning and cloud technology blog; blogpost; 2014-10](https://aawasthi.blogspot.com/2014/10/cloud-nomenclature-aws-google-azure.html)
    - Data Engineering on Google Cloud, Video Course [Google; YouTube; 2021-11](https://www.youtube.com/watch?v=7TYLYjaHB64&list=PLmI_IVYHB9Fred0mR-280Uro9HOH9Lo98)
+
+### Machine Learning
+
+### Data Engineering
+
+### Data Science
+
+
