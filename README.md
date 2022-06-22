@@ -21,6 +21,7 @@ This is an ongoing list and classification or survey of advancments in the ML co
 
 - Philosophical debates
   - *cult*: "What AI Can Tell Us About Intelligence: Can deep learning systems learn to manipulate symbols?" [Yann LeCun & Jacob Browning; Blog; 2022-06](https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/)
+  - *cult*: "Deep Learning Is Hitting a Wall: What would it take for artificial intelligence to make real progress?" [Gary Marcus; Blog; 2022-03](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 
 - General resources
   - Papers, resources, guides, blogs, interviews etc. on Application of ML and its systems: https://applyingml.com/
