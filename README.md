@@ -82,7 +82,9 @@ This is an ongoing list and classification or survey of advancments in the ML co
 
 #### Large Language Models
 
-- DALL-E series: "" []()
+- DALL-E series:
+  - DALL-E: "a 12-billion parameter version of GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs" [OpenAI; Blog & Paper; 2021-01](https://openai.com/blog/dall-e/)
+  - DALL-E 2: "generates more realistic and accurate images with 4x greater resolution." [OpenAI; Blog & Paper; 2022-04](https://openai.com/dall-e-2/) 
 - GPT series:
   - GPT: "diverse language tasks with a scalable, task-agnostic system" [OpenAI; Blog & Paper; 2018-06](https://openai.com/blog/language-unsupervised/)
   - GPT-2: "a successor to GPT was trained simply to predict the next word in 40GB of Internet text. A large transformer-based language model with 1.5 billion parameters, trained on a dataset of 8 million web pages." [OpenAI; Blog & Paper; 2019-02](https://openai.com/blog/better-language-models/) 
