@@ -80,7 +80,7 @@ This is an ongoing list and classification or survey of advancments in the ML co
   - Variational Autoencoder (VAE)
   - DALL-E
 
-#### Generative Models
+#### Large Language Models
 
 - DALL-E series: "" []()
 - GPT series:
@@ -113,6 +113,7 @@ This is an ongoing list and classification or survey of advancments in the ML co
   - Weights&Biases
   - Neptune.AI
   - Feast
+  - MLRun
  
  - Cloud Use Cases
    - Comparison of AWS, Google and Azure cloud providers [Convergence: Machine-learning and cloud technology blog; blogpost; 2014-10](https://aawasthi.blogspot.com/2014/10/cloud-nomenclature-aws-google-azure.html)
