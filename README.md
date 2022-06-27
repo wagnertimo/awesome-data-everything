@@ -18,6 +18,7 @@ This is an ongoing list and classification or survey of advancments in the ML co
   - *cult*: "Deep Learning" [Ian Goodfellow; book; 2016](https://www.deeplearningbook.org/)
   - *cult*: "Deep Learning with Python" [François Chollet; book; 2018](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
   - "Applications of Deep Neural Networks with keras" [Jeff Heaton; book; 2020](https://arxiv.org/pdf/2009.05673.pdf) 
+  - *cult*: "Deep Learning with Pytorch" [NYU CENTER FOR DATA SCIENCE; course; 2020](https://atcold.github.io/pytorch-Deep-Learning/)
 
 - Philosophical debates
   - *cult*: "What AI Can Tell Us About Intelligence: Can deep learning systems learn to manipulate symbols?" [Yann LeCun & Jacob Browning; Blog; 2022-06](https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/)
