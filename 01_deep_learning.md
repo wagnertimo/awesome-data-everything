@@ -1,7 +1,5 @@
 ### Deep Learning
 
-[Test](01_deep_learning)
-
 - Overview
   - *cult*: "Deep Learning" [Ian Goodfellow; book; 2016](https://www.deeplearningbook.org/)
   - *cult*: "Deep Learning with Python" [François Chollet; book; 2018](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
