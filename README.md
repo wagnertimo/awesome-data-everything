@@ -21,4 +21,6 @@ This is an ongoing list and classification or survey of advancments in the ML co
 - [Data Science](05_data_science.md)
 
 
+## Other Resources
 
+- Curated list of free video materials on Artificial Intelligence, Machine Learning, Software Engineering etc.: [see GitHub Repo](https://github.com/Developer-Y/cs-video-courses#artificial-intelligence)
