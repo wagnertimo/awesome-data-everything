@@ -2,7 +2,7 @@
 
 ## About
 
-A curated list of machine learning articles, blog posts, papers, projects or repositories capturing the evolution of ML models and engineering; predominantly Deep Learning advancements.
+A curated list of data analytics resources. Mainly articles, blog posts, papers, projects or repositories capturing the evolution of ML models and engineering; predominantly Deep Learning advancements.
 
 This is an ongoing list and classification or survey of advancments in the ML community. It briefly elaborates notions and lists literature reviews for further exploration. The main goal of the list is to demonstrate different research fields, latest and past, and their evolution, dependence or 
 
