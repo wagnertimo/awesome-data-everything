@@ -14,7 +14,7 @@ This is an ongoing list and classification or survey of advancments in the ML co
 
 ### Deep Learning
 
-[Test](01_deep_learning.md)
+[Test](01_deep_learning)
 
 - Overview
   - *cult*: "Deep Learning" [Ian Goodfellow; book; 2016](https://www.deeplearningbook.org/)
