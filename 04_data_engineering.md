@@ -10,7 +10,10 @@
 - NoSQL Databases: cassandra, mongoDB, redis, memcache, Elasticsearch
 
 ## Data Processing
-- Batch: Spark, Hadoop
+- Batch:
+  - Hadoop und Spark (Cluster) 
+    - [Google Cloud Dataproc](https://cloud.google.com/dataproc) (also supports Apache Flink, Presto and other frameworks)
+    - [AWS EMR](https://aws.amazon.com/de/emr/) (Elastic MapReduce)
 - Streaming: Spark, Flink, Storm, Kafka, RabbitMQ (message broker)
 - Logging: Fluentd, logstash
   
