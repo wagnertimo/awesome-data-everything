@@ -13,7 +13,8 @@
 - Batch:
   - Hadoop und Spark (Cluster) 
     - [Google Cloud Dataproc](https://cloud.google.com/dataproc) (also supports Apache Flink, Presto and other frameworks)
-    - [AWS EMR](https://aws.amazon.com/de/emr/) (Elastic MapReduce)
+    - [AWS EMR](https://aws.amazon.com/de/emr/) (Elastic MapReduce, Hadoop, Presto etc. clusters)
+    - [Azure HDInsight](https://azure.microsoft.com/de-de/services/hdinsight/#overview) (Hadoop, Spark, R Server, HBase, Storm, etc. clusters)
 - Streaming: Spark, Flink, Storm, Kafka, RabbitMQ (message broker)
 - Logging: Fluentd, logstash
   
