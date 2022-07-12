@@ -6,6 +6,7 @@
 
 ### General Resources
 - [MLOps.community](https://mlops.community/)
+- [MLOps.toys](https://mlops.toys/feature-store)
 
 ## Architecture / Concepts
 - *introductionary*: "MLOps Architecture Guide" [Neptune AI; blog post; 2022-03-31](https://neptune.ai/blog/mlops-architecture-guide)
