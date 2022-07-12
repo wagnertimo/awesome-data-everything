@@ -12,7 +12,7 @@
 
 ## Testing and Continous Integration (CI)
 
-- "Building Continuous Integration Services for Machine Learning" [1Microsoft & ETH; paper; 2020-08](https://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf)
+- "Building Continuous Integration Services for Machine Learning" [Microsoft & ETH; paper; 2020-08](https://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf)
 
 ## Tools
 - "A curated list of MLOps projects" [MLOps.toys](https://mlops.toys/feature-store)
