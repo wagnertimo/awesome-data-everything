@@ -1,4 +1,11 @@
 # MLOps
+## Overview
+
+### Motivation
+- *introductionary*: "Why do 87% of data science projects never make it into production?" [VentureBeat; article; 2019-07](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/)
+
+### General Resources
+- [MLOps.community](https://mlops.community/)
 
 ## Architecture / Concepts
 - *introductionary*: "MLOps Architecture Guide" [Neptune AI; blog post; 2022-03-31](https://neptune.ai/blog/mlops-architecture-guide)
@@ -8,6 +15,7 @@
 - *introductionary*: "Rules of Machine Learning: Best Practices for ML Engineering (43 rules)" [Google; article & YouTube; 2018-10](https://developers.google.com/machine-learning/guides/rules-of-ml)
 - *cult*: "Continuous Delivery for Machine Learning (CD4ML)" [Martin Fowler; article; 2019-09](https://martinfowler.com/articles/cd4ml.html)
 - *introductionary*: "Building an ML Platform from Scratch: Live Coding Session" [MLOps Community ; YouTube; 2021](https://www.youtube.com/watch?v=s8Jj9gzQ3xA)
+- *introductionary*: "Building a CI/ CD Machine Learning Pipeline" [Cloud Guru; YouTube; 2021-06](https://www.youtube.com/watch?v=XoXvX8MyW8M)
 
 
 ## Testing and Continous Integration (CI)
