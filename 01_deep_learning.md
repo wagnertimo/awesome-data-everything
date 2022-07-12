@@ -18,6 +18,7 @@
 
 - *introductionary*: "Yes you should understand backprop" [Andrej Karparthy; blog; 2016](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
   - "Lecture 4: Backpropagation, Neural Networks 1" [Andrej Karparthy; YouTube; 2016](https://www.youtube.com/watch?v=i94OvYb6noo) 
+- *introductionary*: "CS25: Transformers United" [Stanford; YouTube & course ; 2021-09](https://web.stanford.edu/class/cs25/)
 
 ## Architectures
 
@@ -26,7 +27,8 @@
 - Recurrent Neural Networks (RNN)
 - Generative Adverserial Networks (GAN)
 - Transformer Networks
-  - *cult*: "Attention is all you need"
+  - *cult*: "Attention Is All You Need" [Google; paper; 2017-06](https://arxiv.org/pdf/1706.03762.pdf)
+  - "CS25: Transformers United" [Stanford; YouTube & course ; 2021-09](https://web.stanford.edu/class/cs25/)
 
 
 ### Self-Supervised Learning
@@ -82,10 +84,12 @@
   - Variational Autoencoder (VAE)
   - DALL-E
 
-#### Natural Language Processing (NLP)
 
-- Use Cases and Applications:
-  - "Improving Wikipedia Verifiability with AI" [Meta AI; paper; 2022-07-11](https://openreview.net/pdf?id=qfTqRtkDbWZ)
+## Natural Language Processing (NLP)
+
+### Use Cases and Applications:
+
+- "Improving Wikipedia Verifiability with AI" [Meta AI; paper; 2022-07-11](https://openreview.net/pdf?id=qfTqRtkDbWZ)
 
 
 
