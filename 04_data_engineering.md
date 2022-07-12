@@ -1,13 +1,28 @@
 # Data Engineering
+
+## Overview
+
 ## Data Architectures
-- Data Lake: AWS S3, GCS
-- Data Warehouse: Redshift, BigQuery
-- **Data Lakehouse**: databricks, Delta Lake, Apache Iceberg, Snowflake
-  - Overview: "The Fundamentals of Data Warehouse + Data Lake = Lake House" [Garrett R Peternel; blog post; 2021-08-27](https://towardsdatascience.com/the-fundamentals-of-data-warehouse-data-lake-lake-house-ff640851c832)
-  - **databricks** overview: "Master Databricks and Apache Spark Step by Step" [Bryan Cafferky; YouTube Playlist; 2021-01](https://www.youtube.com/playlist?list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp)
-  - **BigLake** on Google Cloud Platform (GCP): "BigLake: unifying data lakes and data warehouses across clouds" [Google; blog post; 2022-04-06](https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake)
-- SQL Databases: postgresql, mysql
-- NoSQL Databases: cassandra, mongoDB, redis, memcache, Elasticsearch
+
+### Data Lake: 
+- AWS S3, GCS
+
+### Data Warehouse
+- Redshift, BigQuery
+
+### Data Lakehouse
+
+- *cult*: "Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics" [Databricks; paper; 2020-12](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper17.pdf)
+- Overview: "The Fundamentals of Data Warehouse + Data Lake = Lake House" [Garrett R Peternel; blog post; 2021-08-27](https://towardsdatascience.com/the-fundamentals-of-data-warehouse-data-lake-lake-house-ff640851c832)
+- **Databricks** overview: "Master Databricks and Apache Spark Step by Step" [Bryan Cafferky; YouTube Playlist; 2021-01](https://www.youtube.com/playlist?list=PL7_h0bRfL52qWoCcS18nXcT1s-5rSa1yp)
+- **BigLake** on Google Cloud Platform (GCP): "BigLake: unifying data lakes and data warehouses across clouds" [Google; blog post; 2022-04-06](https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake)
+- Delta Lake, Apache Iceberg, Snowflake
+
+### SQL Databases
+- postgresql, mysql
+
+### NoSQL Databases
+- cassandra, mongoDB, redis, memcache, Elasticsearch
 
 ## Data Processing
 - Batch:
