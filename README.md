@@ -23,5 +23,5 @@ This is an ongoing list and classification or survey of advancments in the ML co
 
 ## Other Resources
 
-- Curated list of free video materials on Artificial Intelligence, Machine Learning, Software Engineering etc.: [see GitHub Repo](https://github.com/Developer-Y/cs-video-courses#artificial-intelligence)
-- Curated list of free materials on Mathematics for Machine Learning and Statistics: [see GitHub Repo](https://github.com/dair-ai/Mathematics-for-ML)
+- Curated list of free video materials on **Artificial Intelligence, Machine Learning, Software Engineering etc.**: [see GitHub Repo](https://github.com/Developer-Y/cs-video-courses#artificial-intelligence)
+- Curated list of free materials on **Mathematics for Machine Learning and Statistics**: [see GitHub Repo](https://github.com/dair-ai/Mathematics-for-ML)
