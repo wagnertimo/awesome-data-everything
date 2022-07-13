@@ -87,10 +87,15 @@
 
 ## Natural Language Processing (NLP)
 
-### Use Cases and Applications:
+### Use Cases and Applications
 
 - "Improving Wikipedia Verifiability with AI" [Meta AI; paper; 2022-07-11](https://openreview.net/pdf?id=qfTqRtkDbWZ)
   - Project [**Sphere**](https://github.com/facebookresearch/sphere) (a universal, uncurated, and unstructured source of knowledge, to solve multiple KI-NLP tasks at once): "The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus" [Meta AI; paper; 2021-12](https://arxiv.org/pdf/2112.09924.pdf)
 
+
+
+### Benchmarks
+
+- [**KILT** (Knowledge Intensive Language Tasks)](https://github.com/facebookresearch/KILT): "KILT: a Benchmark for Knowledge Intensive Language Tasks" [Meta AI; paper; 2020-09](https://arxiv.org/pdf/2009.02252.pdf)
 
 
