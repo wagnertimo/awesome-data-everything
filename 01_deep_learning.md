@@ -90,6 +90,7 @@
 ### Use Cases and Applications:
 
 - "Improving Wikipedia Verifiability with AI" [Meta AI; paper; 2022-07-11](https://openreview.net/pdf?id=qfTqRtkDbWZ)
+  - Project Sphere (a universal, uncurated, and unstructured source of knowledge, to solve multiple KI-NLP tasks at once): "The Web Is Your Oyster - Knowledge-Intensive NLP against a Very Large Web Corpus" [Meta AI; paper; 2021-12](https://arxiv.org/pdf/2112.09924.pdf)
 
 
 
