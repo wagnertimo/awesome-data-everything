@@ -26,9 +26,11 @@
 - Convolutional Neural Networks (CNN)
 - Recurrent Neural Networks (RNN)
 - Generative Adverserial Networks (GAN)
-- Transformer Networks
-  - *cult*: "Attention Is All You Need" [Google; paper; 2017-06](https://arxiv.org/pdf/1706.03762.pdf)
-  - "CS25: Transformers United" [Stanford; YouTube & course ; 2021-09](https://web.stanford.edu/class/cs25/)
+
+### Transformer Networks
+- *cult*: "Attention Is All You Need" [Google; paper; 2017-06](https://arxiv.org/pdf/1706.03762.pdf)
+- "CS25: Transformers United" [Stanford; YouTube & course ; 2021-09](https://web.stanford.edu/class/cs25/)
+- Hugging Face: "Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX." [Hugging Face; GitHub; 2020](https://github.com/huggingface/transformers)
 
 
 ### Self-Supervised Learning
