@@ -87,6 +87,9 @@
 
 ## Natural Language Processing (NLP)
 
+### General
+- Tracking NLP progress: "Repository to track the progress inNLP, including the datasets and the current state-of-the-art for the most common NLP tasks" [NLP Progress; website; 2018](https://nlpprogress.com/)
+
 ### Use Cases and Applications
 
 - "Improving Wikipedia Verifiability with AI" [Meta AI; paper; 2022-07-11](https://openreview.net/pdf?id=qfTqRtkDbWZ)
