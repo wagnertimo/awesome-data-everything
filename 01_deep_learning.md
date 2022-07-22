@@ -11,6 +11,7 @@
 - *cult*: "Deep Learning Is Hitting a Wall: What would it take for artificial intelligence to make real progress?" [Gary Marcus; Blog; 2022-03](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 
 ### General resources
+- Free (practical) deep learning online courses with [Fast AI](https://www.fast.ai/)
 - Papers, resources, guides, blogs, interviews etc. on Application of ML and its systems: https://applyingml.com/
 - Full-Stack Deep Learning YouTube channel: https://www.youtube.com/c/FullStackDeepLearning
 
