@@ -24,15 +24,27 @@
 - "Building Continuous Integration Services for Machine Learning" [Microsoft & ETH; paper; 2020-08](https://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf)
 
 ## Tools
+
+### General
 - "A curated list of MLOps projects" [MLOps.toys](https://mlops.toys/feature-store)
-- "MetaFlow: makes it easy to build and manage real-life data science projects" [Outerbounds](https://outerbounds.com/)
-- DVC
-- MLFlow
-- KubeFlow
-- Weights&Biases
-- Neptune.AI
-- Feast
-- MLRun
+
+### Data
+- [DVC (git for data)](https://dvc.org/)
+- [dbt (data build tool)](https://www.getdbt.com/](https://docs.getdbt.com/docs/introduction) - ELT instead of ETL
+- [Feast (feature store)](https://docs.feast.dev/)
+
+### Frameworks: orchestrate MLOps
+- [MetaFlow](https://docs.metaflow.org/introduction/what-is-metaflow): a python library to manage real-life data science projects, [Outerbounds](https://outerbounds.com/)
+- [MLRun](https://docs.mlrun.org/en/latest/) 
+- [KubeFlow](https://www.kubeflow.org/docs/started/introduction/) - ML workflows on Kubernetes
+
+### MLOps platforms: Lifecyle Management & Monitoring etc.
+- [Weights&Biases](https://wandb.ai/)
+- [Neptune.AI](https://neptune.ai/home)
+- [Comet](https://www.comet.com/site/)
+- [MLFlow](https://mlflow.org/docs/latest/index.html) - open source
+
+
  
 ## Cloud Use Cases
  - Comparison of AWS, Google and Azure cloud providers [Convergence: Machine-learning and cloud technology blog; blogpost; 2014-10](https://aawasthi.blogspot.com/2014/10/cloud-nomenclature-aws-google-azure.html)
