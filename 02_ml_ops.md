@@ -30,7 +30,7 @@
 
 ### Data
 - [DVC (git for data)](https://dvc.org/)
-- [dbt (data build tool)](https://www.getdbt.com/](https://docs.getdbt.com/docs/introduction) - ELT instead of ETL
+- [dbt (data build tool)](https://docs.getdbt.com/docs/introduction) - ELT instead of ETL
 - [Feast (feature store)](https://docs.feast.dev/)
 
 ### Frameworks: orchestrate MLOps
