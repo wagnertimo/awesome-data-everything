@@ -1,5 +1,6 @@
 # MLOps
 ## Overview
+Machine Learning Operations (MLOps) is the process of putting machine learning models into production, then maintaining and monitoring them on a continuous basis. MLOps includes everything from the data flow to the deployment of machine learning models. The primary benefits of MLOps are efficiency, scalability, and reproducibility.
 
 ### Motivation
 - *introductionary*: "Why do 87% of data science projects never make it into production?" [VentureBeat; article; 2019-07](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/)
