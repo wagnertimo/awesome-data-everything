@@ -17,6 +17,8 @@
 - *cult*: "Continuous Delivery for Machine Learning (CD4ML)" [Martin Fowler; article; 2019-09](https://martinfowler.com/articles/cd4ml.html)
 - *introductionary*: "Building an ML Platform from Scratch: Live Coding Session" [MLOps Community ; YouTube; 2021](https://www.youtube.com/watch?v=s8Jj9gzQ3xA)
 - *introductionary*: "Building a CI/ CD Machine Learning Pipeline" [Cloud Guru; YouTube; 2021-06](https://www.youtube.com/watch?v=XoXvX8MyW8M)
+- "The Post Modern Data Stack" [Jacopo Tagliabue; YouTube; 2022-04](https://www.youtube.com/watch?v=5kHDb-XGHtc&ab_channel=JacopoTagliabue)
+
 
 
 ## Testing and Continous Integration (CI)
