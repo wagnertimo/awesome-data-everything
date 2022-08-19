@@ -50,3 +50,11 @@
 - Avro
 - JSON, bson
 - protobuf
+
+## Modern Data Stacks
+
+- "The Post Modern Data Stack" [Jacopo Tagliabue; YouTube; 2022-04](https://www.youtube.com/watch?v=5kHDb-XGHtc&ab_channel=JacopoTagliabue)
+
+## DataOps
+
+
