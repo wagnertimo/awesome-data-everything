@@ -41,6 +41,8 @@ Machine Learning Operations (MLOps) is the process of putting machine learning m
 - [dbt (data build tool)](https://docs.getdbt.com/docs/introduction) - ELT instead of ETL
 - [Feast (feature store)](https://docs.feast.dev/)
   - Using [Redis](https://redis.com/blog/building-feature-stores-with-redis-introduction-to-feast-with-redis/)
+  - Example Demo using GCP: "Feature Store for Machine Learning - MLOps" [AI Engineering; YouTube 2021-04](https://www.youtube.com/watch?v=ZeJdr0nZ9PA&ab_channel=AIEngineering)
+  - see also [Data Engineering](04_data_engineering.md)
 
 ### Frameworks: orchestrate MLOps
 - [MetaFlow](https://docs.metaflow.org/introduction/what-is-metaflow): a python library to manage real-life data science projects, [Outerbounds](https://outerbounds.com/)
