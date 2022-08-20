@@ -34,6 +34,7 @@ A Feature Store is a data management layer for machine learning that allows to s
   - [Feast (feature store)](https://docs.feast.dev/)
     - Using [Redis](https://redis.com/blog/building-feature-stores-with-redis-introduction-to-feast-with-redis/)
     - Using [Google Cloud (Datastore/BigQuery)](https://docs.feast.dev/reference/providers/google-cloud-platform)
+    - Example Demo using GCP: "Feature Store for Machine Learning - MLOps" [AI Engineering; YouTube 2021-04](https://www.youtube.com/watch?v=ZeJdr0nZ9PA&ab_channel=AIEngineering)
 - Proprietary
   - [Google: Vertex AI Feature Store](https://cloud.google.com/vertex-ai/docs/featurestore?hl=de)
   - [Databricks](https://docs.databricks.com/applications/machine-learning/feature-store/index.html)
