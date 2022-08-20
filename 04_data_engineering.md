@@ -27,6 +27,21 @@
 ### NoSQL Databases
 - cassandra, mongoDB, redis, memcache, Elasticsearch
 
+### Feature Stores
+A Feature Store is a data management layer for machine learning that allows to share & discover features and create more effective machine learning pipelines (https://www.featurestore.org/).
+
+- Open Source:
+  - [Feast (feature store)](https://docs.feast.dev/)
+    - Using [Redis](https://redis.com/blog/building-feature-stores-with-redis-introduction-to-feast-with-redis/)
+    - Using [Google Cloud (Datastore/BigQuery)](https://docs.feast.dev/reference/providers/google-cloud-platform)
+- Proprietary
+  - [Google: Vertex AI Feature Store](https://cloud.google.com/vertex-ai/docs/featurestore?hl=de)
+  - [Databricks](https://docs.databricks.com/applications/machine-learning/feature-store/index.html)
+  - [Amazon SageMaker Feature Store](https://aws.amazon.com/de/sagemaker/feature-store/)
+  - [Microsoft Azure](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/bringing-feature-store-to-azure-from-microsoft-azure-redis-and/ba-p/2918917)
+  - [H20](https://h2o.ai/platform/ai-cloud/make/feature-store/)
+
+
 ## Data Processing
 - Batch:
   - Hadoop und Spark (Cluster) 
