@@ -3,7 +3,7 @@
 ## Overview
 
 - *cult*: "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" [Martin Kleppmann; book; 2017-04](https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf)
-- 
+- *introductionary*: "Data Engineering on GCP Cheatsheet" [GitHub; Cheatsheet; 2018](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf)
 
 ## Data Architectures
 
