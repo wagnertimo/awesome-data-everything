@@ -83,3 +83,9 @@ A Feature Store is a data management layer for machine learning that allows to s
 
 
 
+## Other Resources
+
+- **Google Cloud Data Engineer Dossier** from Linux Academy: Overview of GCP services regarding data engineering [see Lucid Chart](https://lucid.app/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#)
+  - **Cheatsheet Videos** for Google Cloud Data Engineer Exam [IT Cheer Up; YouTube Videos; 2021-01](https://www.youtube.com/playlist?list=PLWXckUXLY7LwbBz6eyYzDocZo1vkvRWC7)
+  - **Learning Videos**: Google Cloud Professional Data Engineer Certification [Google; YouTube Playlist; 2020-10](https://www.youtube.com/playlist?list=PLWXckUXLY7LzOBySwKXb9fqejwpGcnAwi)
+- 
