@@ -86,8 +86,6 @@ A Feature Store is a data management layer for machine learning that allows to s
   - beginner: "DBT: A new way to transform data and build pipelines at The Telegraph" [Stefano Solimito; Blog; 2019-08](https://medium.com/the-telegraph-engineering/dbt-a-new-way-to-handle-data-transformation-at-the-telegraph-868ce3964eb4)
   - intermediate: "Practical tips to get the best out of Data Build Tool (dbt) — Part 1" [Stefano Solimito; Blog; 2020-03](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-building-tool-dbt-part-1-8cfa21ef97c5)
 
-
-
 ## Data Engineering on the Cloud
 
 ### Google Cloud (GCP)
