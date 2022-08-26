@@ -11,7 +11,7 @@
 - AWS S3, GCS
 
 ### Data Warehouse
-- Redshift, BigQuery
+- Redshift, BigQuery, Snowflake, Teradata
 
 ### Data Lakehouse
 
