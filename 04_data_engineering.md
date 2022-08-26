@@ -53,6 +53,8 @@ A Feature Store is a data management layer for machine learning that allows to s
     - [AWS EMR](https://aws.amazon.com/de/emr/) (Elastic MapReduce, Hadoop, Presto etc. clusters)
     - [Azure HDInsight](https://azure.microsoft.com/de-de/services/hdinsight/#overview) (Hadoop, Spark, R Server, HBase, Storm, etc. clusters)
 - Streaming: Spark, Flink, Storm, Kafka, RabbitMQ (message broker)
+- Lambda Architecture (Streaming+Batch): Spark ("How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming" [Walmart Global Tech Blog; Blog; 2018-06](https://medium.com/walmartglobaltech/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3))
+- Delta (Lake) Architecture (beyond lambda): Databricks [Databricks; YouTube; 2020](https://www.youtube.com/watch?v=FePv0lro0z8&t=49s&ab_channel=Databricks)
 - Logging: Fluentd, logstash
   
 ## Orchestration:
