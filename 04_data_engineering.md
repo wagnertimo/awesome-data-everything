@@ -21,6 +21,9 @@
 - **BigLake** on Google Cloud Platform (GCP): "BigLake: unifying data lakes and data warehouses across clouds" [Google; blog post; 2022-04-06](https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake)
 - Delta Lake, Apache Iceberg, Snowflake
 
+### Data Vault (2.0)
+- 
+
 ### SQL Databases
 - postgresql, mysql
 
