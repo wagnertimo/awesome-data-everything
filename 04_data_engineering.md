@@ -11,7 +11,7 @@
 - AWS S3, GCS
 
 ### Data Warehouse
-- Redshift, BigQuery, Snowflake, Teradata
+- Redshift, Athena, BigQuery, Snowflake, Teradata
 
 ### Data Lakehouse
 
@@ -81,7 +81,10 @@ A Feature Store is a data management layer for machine learning that allows to s
 - ETL: Extract Transform Load
   - Orchestration:
     - **Dagster**: Phython library "Build ETL Pipelines with Dagster" [Haq Nawaz; Blog; 2022-06](https://blog.devgenius.io/build-etl-pipelines-with-dagster-4c5f2ac678db)
-    - Airflow
+    - Airflow (GCP Composer)
+    - Luigi
+    - Argo (Kubernetes, also for GitOps)
+  - Tools: Spark, GCP Dataflow / Data Fusion, AWS Glue, Azure Data Factory, Informatica
 - ELT: Extract Load Transform-> [dbt (data build tool)](https://docs.getdbt.com/docs/introduction)
   - beginner: "DBT: A new way to transform data and build pipelines at The Telegraph" [Stefano Solimito; Blog; 2019-08](https://medium.com/the-telegraph-engineering/dbt-a-new-way-to-handle-data-transformation-at-the-telegraph-868ce3964eb4)
   - intermediate: "Practical tips to get the best out of Data Build Tool (dbt) — Part 1" [Stefano Solimito; Blog; 2020-03](https://medium.com/photobox-technology-product-and-design/practical-tips-to-get-the-best-out-of-data-building-tool-dbt-part-1-8cfa21ef97c5)
