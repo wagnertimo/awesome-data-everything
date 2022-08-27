@@ -88,6 +88,7 @@ A Feature Store is a data management layer for machine learning that allows to s
  - Master Data Management (MDM): managing, storing main enterprise data which rarely changes (e.g. customers, products) that all departments have a common vire (single source of truth)
    - "What is master data management(MDM) | mdm architecture & products (2022)" [IT k Funde; YouTube; 2022-05](https://www.youtube.com/watch?v=qCEbL1TXOtw&list=PLcnJIHtHiTA2HmIleev4scARSFwrQ0bIy&index=18&ab_channel=ITkFunde)
    - Tools: Ataccama, Informatica, SAP
+ - 5 Data Challenges: Data Discovery, Data Quality, Data Auditing & Monitoring (Compliance; Lacks Maturing+Tools), Data Masking/Anonymization, Data & Business Value Generation
 
 ## Data Engineering on the Cloud
 
