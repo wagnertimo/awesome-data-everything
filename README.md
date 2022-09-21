@@ -25,4 +25,4 @@ This is an ongoing list and classification or survey of advancments in the ML co
 
 - Curated list of free video materials on **Artificial Intelligence, Machine Learning, Software Engineering etc.**: [see GitHub Repo](https://github.com/Developer-Y/cs-video-courses#artificial-intelligence)
 - Curated list of free materials on **Mathematics for Machine Learning and Statistics**: [see GitHub Repo](https://github.com/dair-ai/Mathematics-for-ML)
-- A curated list of data engineering tools for software developers [See GitHub: Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+- A curated list of **data engineering tools** for software developers [See GitHub: Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
