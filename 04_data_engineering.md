@@ -10,6 +10,7 @@
 
 ### Data Mesh (Data Platform): 
 "Data Mesh is a paradigm shift in big analytical data management that addresses some of the limitations of the past paradigms, data warehousing and data lake. Data Mesh is founded in four principles: "domain-driven ownership of data", "data as a product", "self-serve data platform" and a "federated computational governance"." [Thoughtworks; Website](https://www.thoughtworks.com/about-us/events/webinars/core-principles-of-data-mesh/data-as-a-product)
+
 - "Data Mesh Principles and Logical Architecture" [Martin Fowler; Blog; 2020-12](https://martinfowler.com/articles/data-mesh-principles.html)
 - "Recipe for building your first Data Product in a Data Mesh" [Google Cloud; Medium; 2022-02](https://medium.com/google-cloud/recipe-for-building-your-first-data-product-in-a-data-mesh-78b52338ef59)
 - "Build a data mesh on Google Cloud with Dataplex, now generally available" [Google Cloud; Whitepaper; 2022-02](https://cloud.google.com/blog/products/data-analytics/build-a-data-mesh-on-google-cloud-with-dataplex-now-generally-available)
