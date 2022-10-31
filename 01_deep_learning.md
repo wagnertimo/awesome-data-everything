@@ -9,6 +9,9 @@
 ### Philosophical debates
 - *cult*: "What AI Can Tell Us About Intelligence: Can deep learning systems learn to manipulate symbols?" [Yann LeCun & Jacob Browning; Blog; 2022-06](https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/)
 - *cult*: "Deep Learning Is Hitting a Wall: What would it take for artificial intelligence to make real progress?" [Gary Marcus; Blog; 2022-03](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+- *cult*: "Software 2.0" [Andrej Karpathy; Blog; 2017-11](https://karpathy.medium.com/software-2-0-a64152b37c35)
+  - see also [Lex Fridman Podcast; YouTube; 2022-10](https://www.youtube.com/watch?v=UJc8UpClSUQ&ab_channel=LexClips)
+  - new tools needed: What's the Github of Software 2.0? Maybe huggingface?!
 
 ### General resources
 - Free (practical) deep learning online courses with [Fast AI](https://www.fast.ai/)
