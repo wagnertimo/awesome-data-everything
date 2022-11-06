@@ -22,6 +22,7 @@
 
 - *introductionary*: "Yes you should understand backprop" [Andrej Karparthy; blog; 2016](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
   - "Lecture 4: Backpropagation, Neural Networks 1" [Andrej Karparthy; YouTube; 2016](https://www.youtube.com/watch?v=i94OvYb6noo) 
+  - "The spelled-out intro to neural networks and backpropagation: building micrograd" [Andrej Karparthy; YouTube; 2022](https://www.youtube.com/watch?v=VMj-3S1tku0&ab_channel=AndrejKarpathy)
 - *introductionary*: "CS25: Transformers United" [Stanford; YouTube & course ; 2021-09](https://web.stanford.edu/class/cs25/)
 
 ## Architectures
@@ -89,6 +90,7 @@
   - Generative Adverserial Networks (GAN) 
   - Variational Autoencoder (VAE)
   - DALL-E
+  - Stable Diffusion
 
 
 ## Natural Language Processing (NLP)
