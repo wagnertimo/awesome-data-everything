@@ -38,6 +38,10 @@
 - Entity Relationship Diagram (ERD): "What is Entity Relationship Diagram (ERD)?" (Visual Paradigm; Blog)[https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/]
   - Tool: Miro, Lucid, https://dbdiagram.io/home
 
+### Time-Series Databases (TSDB)
+- "𝐓𝐢𝐦𝐞-𝐒𝐞𝐫𝐢𝐞𝐬 𝐃𝐁 (TSDB) in 20 lines. What is 𝐓𝐢𝐦𝐞-𝐒𝐞𝐫𝐢𝐞𝐬 𝐃𝐁 (TSDB)? How is it 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 from Relational DB?" [Ales Xu from ByteByteGo; Twitter Thread; 12-2022](https://twitter.com/alexxubyte/status/1599801032061558784)
+- "Using Postgres as a time series database" [Mike Depalatis; Blog Post; 2016-06-25](https://mike.depalatis.net/blog/postgres-time-series-database.html)
+
 ### NoSQL Databases
 - cassandra, mongoDB, redis, memcache, Elasticsearch
 
