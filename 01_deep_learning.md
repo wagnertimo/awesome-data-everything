@@ -112,3 +112,8 @@
 - [**KILT** (Knowledge Intensive Language Tasks)](https://github.com/facebookresearch/KILT): "KILT: a Benchmark for Knowledge Intensive Language Tasks" [Meta AI; paper; 2020-09](https://arxiv.org/pdf/2009.02252.pdf)
 
 
+## Datasets
+
+### Multi-Modal
+
+- [**LAION-5B**](https://laion.ai/blog/laion-5b/): a dataset of 5,85 billion CLIP-filtered image-text pairs
