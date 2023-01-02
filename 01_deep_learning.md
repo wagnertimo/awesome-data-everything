@@ -35,6 +35,7 @@
 ### Transformer Networks
 - *cult*: "Attention Is All You Need" [Google; paper; 2017-06](https://arxiv.org/pdf/1706.03762.pdf)
 - "CS25: Transformers United" [Stanford; YouTube & course ; 2021-09](https://web.stanford.edu/class/cs25/)
+- "Detailed implementation of a Transformer model in Tensorflow" [Eduardo Muñoz; Blog; 2020-11](https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634)
 - Hugging Face: "Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX." [Hugging Face; GitHub; 2020](https://github.com/huggingface/transformers)
 
 
