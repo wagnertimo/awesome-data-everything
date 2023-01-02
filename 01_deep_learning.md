@@ -52,7 +52,8 @@
 
 ##### Large Language Models
 - Masked Language Modeling (predicting missing words, Denoising Autoencoder):
-  - *cult*: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [Google; blog post + paper; 2018-11-02](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) 
+  - *cult*: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [Google; blog post + paper; 2018-11-02](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
+    - "BERT Neural Network - EXPLAINED!" [CodeEmperium; YouTube; 2020-05](https://www.youtube.com/watch?v=xI0HHN5XKDo)
 - Autoregressive Language Modeling (predicting next word):
   - GPT series:
     - GPT: "diverse language tasks with a scalable, task-agnostic system" [OpenAI; Blog & Paper; 2018-06](https://openai.com/blog/language-unsupervised/)
