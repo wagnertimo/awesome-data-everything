@@ -58,6 +58,7 @@
     - GPT: "diverse language tasks with a scalable, task-agnostic system" [OpenAI; Blog & Paper; 2018-06](https://openai.com/blog/language-unsupervised/)
     - GPT-2: "a successor to GPT was trained simply to predict the next word in 40GB of Internet text. A large transformer-based language model with 1.5 billion parameters, trained on a dataset of 8 million web pages." [OpenAI; Blog & Paper; 2019-02](https://openai.com/blog/better-language-models/) 
     - GPT-3: "an autoregressive language model with 175 billion parameters" [OpenAI; Blog & Paper; 2020-05](https://openai.com/blog/openai-api/) 
+      - "Understanding GPT-3: OpenAI’s Latest Language Model" [Gaurav Shekhar; Blog; 2020-09](https://medium.com/swlh/understanding-gpt-3-openais-latest-language-model-a3ef89cffac2)  
 - DALL-E series:
   - DALL-E: "a 12-billion parameter version of GPT-3 trained to generate images from text descriptions, using a dataset of text–image pairs" [OpenAI; Blog & Paper; 2021-01](https://openai.com/blog/dall-e/)
   - DALL-E 2: "generates more realistic and accurate images with 4x greater resolution." [OpenAI; Blog & Paper; 2022-04](https://openai.com/dall-e-2/)
