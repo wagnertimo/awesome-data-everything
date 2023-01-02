@@ -4,6 +4,7 @@
 - *cult*: "Deep Learning" [Ian Goodfellow; book; 2016](https://www.deeplearningbook.org/)
 - *cult*: "Deep Learning with Python" [François Chollet; book; 2018](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
 - "Applications of Deep Neural Networks with keras" [Jeff Heaton; book; 2020](https://arxiv.org/pdf/2009.05673.pdf) 
+- "Natural Language Processing with Transformers: Building Language Applications with Hugging Face" [HuggingFace; book; 2022](https://www.amazon.de/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
 - *cult*: "Deep Learning with Pytorch" [NYU CENTER FOR DATA SCIENCE; course; 2020](https://atcold.github.io/pytorch-Deep-Learning/)
 
 ### Philosophical debates
