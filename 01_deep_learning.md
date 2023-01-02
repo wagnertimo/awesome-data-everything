@@ -94,8 +94,10 @@
   - Generative Adverserial Networks (GAN) 
   - Variational Autoencoder (VAE)
   - DALL-E
-  - Stable Diffusion
+  - Diffusion Models
+    - Stable Diffusion, Denoising Diffusion Probabilistic Models (DDPM), Denoising Diffusion Implicit Models (DDIM), [Latent Diffusion Models (LDM)](https://github.com/CompVis/latent-diffusion)
     - "Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications" [Nvidia X Google AI; YouTube; 2022-07](https://www.youtube.com/watch?v=cS6JQpEY9cs)
+    - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model [Stability.AI X Runway.ML; paper ; 2021-12](https://arxiv.org/abs/2112.10752)
 
 
 ## Natural Language Processing (NLP)
