@@ -94,6 +94,7 @@
   - Variational Autoencoder (VAE)
   - DALL-E
   - Stable Diffusion
+    - "Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications" [Nvidia X Google AI; YouTube; 2022-07](https://www.youtube.com/watch?v=cS6JQpEY9cs)
 
 
 ## Natural Language Processing (NLP)
