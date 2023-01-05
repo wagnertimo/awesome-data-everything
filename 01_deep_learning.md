@@ -131,3 +131,7 @@
 ### Multi-Modal
 
 - [**LAION-5B**](https://laion.ai/blog/laion-5b/): a dataset of 5,85 billion CLIP-filtered image-text pairs
+- The Pile
+- CommonCrawl
+- MassiveText
+  - MassiveWeb
