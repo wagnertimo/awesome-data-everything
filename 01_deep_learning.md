@@ -101,6 +101,7 @@
   - Generative Adverserial Networks (GAN) 
   - Variational Autoencoder (VAE)
   - DALL-E
+  - CLIP (Contrastive Language–Image Pre-training): "learns visual concepts from natural language supervision" [OpenAI; Blog; 2021-04](https://openai.com/blog/clip/)
   - Diffusion Models
     - Stable Diffusion, Denoising Diffusion Probabilistic Models (DDPM), Denoising Diffusion Implicit Models (DDIM), [Latent Diffusion Models (LDM)](https://github.com/CompVis/latent-diffusion)
     - "Lesson 9B - the math of diffusion" [Jeremy Howard / Fast.AI; YouTube; 2022-10](https://www.youtube.com/watch?v=mYpjmM7O-30&ab_channel=JeremyHoward)
