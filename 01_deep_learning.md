@@ -103,6 +103,7 @@
   - DALL-E
   - Diffusion Models
     - Stable Diffusion, Denoising Diffusion Probabilistic Models (DDPM), Denoising Diffusion Implicit Models (DDIM), [Latent Diffusion Models (LDM)](https://github.com/CompVis/latent-diffusion)
+    - "Lesson 9B - the math of diffusion" [Jeremy Howard / Fast.AI; YouTube; 2022-10](https://www.youtube.com/watch?v=mYpjmM7O-30&ab_channel=JeremyHoward)
     - "Tutorial on Denoising Diffusion-based Generative Modeling: Foundations and Applications" [Nvidia X Google AI; YouTube; 2022-07](https://www.youtube.com/watch?v=cS6JQpEY9cs)
     - [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model [Stability.AI X Runway.ML; paper ; 2021-12](https://arxiv.org/abs/2112.10752)
 
@@ -128,9 +129,7 @@
 
 ## Datasets
 
-### Multi-Modal
-
-- [**LAION-5B**](https://laion.ai/blog/laion-5b/): a dataset of 5,85 billion CLIP-filtered image-text pairs
+- [**LAION-5B**](https://laion.ai/blog/laion-5b/): a dataset of 5,85 billion CLIP-filtered image-text pairs (multi-modal)
 - The Pile
 - CommonCrawl
 - MassiveText
