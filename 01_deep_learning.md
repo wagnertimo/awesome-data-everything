@@ -70,6 +70,8 @@
   - DALL-E 2: "generates more realistic and accurate images with 4x greater resolution." [OpenAI; Blog & Paper; 2022-04](https://openai.com/dall-e-2/)
 - Gato: "A Generalist Agent: a multi-modal, multi-task, multi-embodiment generalist policy" [DeepMind; Blog & Paper; 2022-05](https://www.deepmind.com/publications/a-generalist-agent)
 - Flamingo: "a single visual language model (VLM) for few-shot learning on a wide range of open-ended multimodal tasks" [DeepMind; Blog & Paper; 2022-04](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
+- Chinchilla: "An empirical analysis of compute-optimal large language model training" [DeepMind; Blog & Paper; 2022-04](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training)
+  - "chinchilla's wild implications" [LessWrong; Blog; 2022-07](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications)
 - LaMDA: "LLM trained on dialogue" [Google; Blog & Paper, 2021-05](https://blog.google/technology/ai/lamda/)
 - PaLM: "a 540-billion parameter, dense decoder-only Transformer model trained with the Pathways system" [Google; Blog & Paper; 2022-04](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 
