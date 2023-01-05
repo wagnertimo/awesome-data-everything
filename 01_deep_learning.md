@@ -19,6 +19,11 @@
 - Papers, resources, guides, blogs, interviews etc. on Application of ML and its systems: https://applyingml.com/
 - Full-Stack Deep Learning YouTube channel: https://www.youtube.com/c/FullStackDeepLearning
 
+#### Read Lists
+- "AI Reading List" [Jack Soslow; Blog](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/mobilebasic)
+- "Distilled AI - exploring the art of artificial intelligence one concept at a time" [Aman.AI; website](https://aman.ai/)
+
+
 ## Fundamentals
 
 - *introductionary*: "Yes you should understand backprop" [Andrej Karparthy; blog; 2016](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
