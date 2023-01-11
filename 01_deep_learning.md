@@ -136,7 +136,7 @@
 ## Datasets
 
 - [**LAION-5B**](https://laion.ai/blog/laion-5b/): a dataset of 5,85 billion CLIP-filtered image-text pairs (multi-modal)
-- The Pile
+- The [**Pile**](https://pile.eleuther.ai/) 825 GiB diverse, open source language modelling data set from open-source community Eleuther AI
 - CommonCrawl
 - MassiveText
   - MassiveWeb
