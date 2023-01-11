@@ -38,6 +38,9 @@
 - Recurrent Neural Networks (RNN)
 - Generative Adverserial Networks (GAN)
 
+### Overview
+- "Transformer models: an introduction and catalog — 2022 Edition" [Xavier Amatriain; Blog; 2022-07](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
+
 ### Transformer Networks
 - *cult*: "Attention Is All You Need" [Google; paper; 2017-06](https://arxiv.org/pdf/1706.03762.pdf)
 - "CS25: Transformers United" [Stanford; YouTube & course ; 2021-09](https://web.stanford.edu/class/cs25/)
@@ -58,6 +61,7 @@
 ##### Large Language Models
 - Masked Language Modeling (MLM: predicting missing words, Denoising Autoencoder) and Next sentence prediction (NSP):
   - *cult*: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [Google; blog post + paper; 2018-11-02](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
+    - "BERT Explained: State of the art language model for NLP" [Rani Horev; Blog; 2018-11](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
     - "BERT Neural Network - EXPLAINED!" [CodeEmperium; YouTube; 2020-05](https://www.youtube.com/watch?v=xI0HHN5XKDo)
 - Autoregressive Language Modeling (predicting next word):
   - GPT series:
@@ -74,6 +78,7 @@
   - "chinchilla's wild implications" [LessWrong; Blog; 2022-07](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications)
 - LaMDA: "LLM trained on dialogue" [Google; Blog & Paper, 2021-05](https://blog.google/technology/ai/lamda/)
 - PaLM: "a 540-billion parameter, dense decoder-only Transformer model trained with the Pathways system" [Google; Blog & Paper; 2022-04](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+- BLOOM (): "an autoregressive language model based on the GPT-3 architecture" [HuggingFace; Website](https://huggingface.co/docs/transformers/model_doc/bloom)
 
 ##### Context Learning / Word Embeddings:
 - word2vec
