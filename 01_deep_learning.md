@@ -38,13 +38,14 @@
 - Recurrent Neural Networks (RNN)
 - Generative Adverserial Networks (GAN)
 
-### Overview
+### Overview / Surveys
 - "Transformer models: an introduction and catalog — 2022 Edition" [Xavier Amatriain; Blog; 2022-07](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
+- "Transformer models: an introduction and catalog" [Xavier Amatriain; Blog & Arxiv Paper; 2023-01](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
+- "Efficient Transformers: A Survey" [Arxiv Paper; 2020-09](https://arxiv.org/abs/2009.06732)
+- "The Practical Guides for Large Language Models" [Github & Arxiv; 2023](https://github.com/Mooler0410/LLMsPracticalGuide)
+- "A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT" [Arxiv Paper; 2023-03](https://arxiv.org/abs/2303.04226)
 
 ### Transformer Networks
-- Overview / Surveys:
-  - "Transformer models: an introduction and catalog" [Xavier Amatriain; Blog & Arxiv Paper; 2023-01](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
-  - "Efficient Transformers: A Survey" [Arxiv Paper; 2020-09](https://arxiv.org/abs/2009.06732)
 - *cult*: "Attention Is All You Need" [Google; paper; 2017-06](https://arxiv.org/pdf/1706.03762.pdf)
 - "CS25: Transformers United" [Stanford; YouTube & course ; 2021-09](https://web.stanford.edu/class/cs25/)
 - "Detailed implementation of a Transformer model in Tensorflow" [Eduardo Muñoz; Blog; 2020-11](https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634)
@@ -62,8 +63,6 @@
 #### Natural Language Processing (NLP)
 
 ##### Large Language Models
-- Overview / Surveys:
-  - "The Practical Guides for Large Language Models" [Github & Arxiv; 2023](https://github.com/Mooler0410/LLMsPracticalGuide)
 - Masked Language Modeling (MLM: predicting missing words, Denoising Autoencoder) and Next sentence prediction (NSP):
   - *cult*: "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" [Google; blog post + paper; 2018-11-02](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
     - "BERT Explained: State of the art language model for NLP" [Rani Horev; Blog; 2018-11](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
@@ -106,8 +105,6 @@
   - wave2vec
 
 #### Generative Models
-- Overview / Surveys:
-  - "A Comprehensive Survey of AI-Generated Content (AIGC): A History of Generative AI from GAN to ChatGPT" [Arxiv Paper; 2023-03](https://arxiv.org/abs/2303.04226)
 - CV:
   - Generative Adverserial Networks (GAN) 
   - Variational Autoencoder (VAE)
