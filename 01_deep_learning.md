@@ -1,6 +1,7 @@
 # Deep Learning
 
 ## Overview
+- *cult*: "The Little Book of Deep Learning" [François Fleuret; free eBook; 2023-05](https://fleuret.org/public/lbdl.pdf)
 - *cult*: "Deep Learning" [Ian Goodfellow; book; 2016](https://www.deeplearningbook.org/)
 - *cult*: "Deep Learning with Python" [François Chollet; book; 2018](https://tanthiamhuat.files.wordpress.com/2018/03/deeplearningwithpython.pdf)
 - "Applications of Deep Neural Networks with keras" [Jeff Heaton; book; 2020](https://arxiv.org/pdf/2009.05673.pdf) 
