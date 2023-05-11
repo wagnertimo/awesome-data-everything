@@ -5,6 +5,10 @@ Machine Learning Operations (MLOps) is the process of putting machine learning m
 ### Motivation
 - *introductionary*: "Why do 87% of data science projects never make it into production?" [VentureBeat; article; 2019-07](https://venturebeat.com/2019/07/19/why-do-87-of-data-science-projects-never-make-it-into-production/)
 
+### Literature
+- *introductionary*: "MLOps - A Comprehensive Guide" [Github; 2023](https://github.com/Nyandwi/machine_learning_complete/blob/main/010_mlops/1_mlops_guide.md)
+
+
 ### General Resources
 - [MLOps.community](https://mlops.community/)
 - [MLOps.toys](https://mlops.toys/feature-store)
