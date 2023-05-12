@@ -35,6 +35,10 @@ Machine Learning Operations (MLOps) is the process of putting machine learning m
 
 - "Building Continuous Integration Services for Machine Learning" [Microsoft & ETH; paper; 2020-08](https://pages.cs.wisc.edu/~wentaowu/papers/kdd20-ci-for-ml.pdf)
 
+## LLMOps
+
+- "An awesome & curated list of the best LLMOps tools for developers" [Awesome LLMOps; Github; 2023](https://github.com/tensorchord/Awesome-LLMOps)
+
 ## Tools
 
 ### General
