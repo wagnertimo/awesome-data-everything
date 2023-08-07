@@ -109,6 +109,8 @@ A Feature Store is a data management layer for machine learning that allows to s
     - AWS:
     - Azure: Data Factory
     - Fivetran, Stitch
+- EtLT: Extract, Transform, Load, and Transform
+  - "ELT is dead, and EtLT will be the end of modern data processing architecture" [Apache SeaTunnel; Medium; 2023-07](https://blog.devgenius.io/elt-is-dead-and-etlt-will-be-the-end-of-modern-data-processing-architecture-154b87c1cce0)
 - Data Catalogs / Discovery: GCP Dataplex / Data Catalog "26 Data Catalogs – From Open Source To Managed" [Seattle Data Guy; Blog; 2022-08](https://www.theseattledataguy.com/26-data-catalogs-from-open-source-to-managed/#page-content)
 - Master Data Management (MDM): managing, storing main enterprise data which rarely changes (e.g. customers, products) that all departments have a common vire (single source of truth)
    - "What is master data management(MDM) | mdm architecture & products (2022)" [IT k Funde; YouTube; 2022-05](https://www.youtube.com/watch?v=qCEbL1TXOtw&list=PLcnJIHtHiTA2HmIleev4scARSFwrQ0bIy&index=18&ab_channel=ITkFunde)
