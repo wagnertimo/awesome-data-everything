@@ -11,6 +11,7 @@
 ### Philosophical debates
 - *cult*: "What AI Can Tell Us About Intelligence: Can deep learning systems learn to manipulate symbols?" [Yann LeCun & Jacob Browning; Blog; 2022-06](https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/)
 - *cult*: "Deep Learning Is Hitting a Wall: What would it take for artificial intelligence to make real progress?" [Gary Marcus; Blog; 2022-03](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+- *cult*: "John Carmack’s ‘Different Path’ to Artificial General Intelligence" [John Carmack; Interview; 2023-02](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/)
 - *cult*: "Software 2.0" [Andrej Karpathy; Blog; 2017-11](https://karpathy.medium.com/software-2-0-a64152b37c35)
   - see also [Lex Fridman Podcast; YouTube; 2022-10](https://www.youtube.com/watch?v=UJc8UpClSUQ&ab_channel=LexClips)
   - new tools needed: What's the Github of Software 2.0? Maybe huggingface?!
@@ -19,6 +20,7 @@
 - Free (practical) deep learning online courses with [Fast AI](https://www.fast.ai/)
 - Papers, resources, guides, blogs, interviews etc. on Application of ML and its systems: https://applyingml.com/
 - Full-Stack Deep Learning YouTube channel: https://www.youtube.com/c/FullStackDeepLearning
+- The infamous list of [Ilya Sutskever's reading list](https://dallasinnovates.com/exclusive-qa-john-carmacks-different-path-to-artificial-general-intelligence/#:~:text=%E2%80%9CSo%20I%20asked%20Ilya%20Sutskever%2C%20OpenAI%E2%80%99s%20chief%20scientist%2C%20for%20a%20reading%20list.%20He%20gave%20me%20a%20list%20of%20like%2040%20research%20papers%20and%20said%2C%20%E2%80%98If%20you%20really%20learn%20all%20of%20these%2C%20you%E2%80%99ll%20know%2090%25%20of%20what%20matters%20today.%E2%80%99%20And%20I%20did.%20I%20plowed%20through%20all%20those%20things%20and%20it%20all%20started%20sorting%20out%20in%20my%20head.%E2%80%9D%C2%A0): see links to 30 papers and resources [here in arc tab folder](https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 
 #### Read Lists
 - "AI Reading List" [Jack Soslow; Blog](https://docs.google.com/document/d/1bEQM1W-1fzSVWNbS4ne5PopB2b7j8zD4Jc3nm4rbK-U/mobilebasic)
