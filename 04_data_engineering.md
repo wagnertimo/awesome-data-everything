@@ -44,7 +44,8 @@
 - "Using Postgres as a time series database" [Mike Depalatis; Blog Post; 2016-06-25](https://mike.depalatis.net/blog/postgres-time-series-database.html)
 
 ### NoSQL Databases
-- cassandra, mongoDB, redis, memcache, Elasticsearch
+- cassandra, mongoDB, redis, Elasticsearch etc.
+- Memcached: "Scaling Memcache at Facebook" [Facebook; Paper; 2013](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
 
 ### Feature Stores
 A Feature Store is a data management layer for machine learning that allows to share & discover features and create more effective machine learning pipelines (https://www.featurestore.org/).
