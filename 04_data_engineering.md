@@ -68,7 +68,9 @@ A Feature Store is a data management layer for machine learning that allows to s
     - [Google Cloud Dataproc](https://cloud.google.com/dataproc) (also supports Apache Flink, Presto and other frameworks)
     - [AWS EMR](https://aws.amazon.com/de/emr/) (Elastic MapReduce, Hadoop, Presto etc. clusters)
     - [Azure HDInsight](https://azure.microsoft.com/de-de/services/hdinsight/#overview) (Hadoop, Spark, R Server, HBase, Storm, etc. clusters)
-- Streaming: Spark, Flink, Storm, Kafka, RabbitMQ (message broker)
+- Streaming: Spark, Storm, RabbitMQ (message broker) etc.
+  - Flink: "Stream and Batch Processing in a Single Engine" [Volker Markl (TU Berlin) et al.; Paper; 2015](https://asterios.katsifodimos.com/assets/publications/flink-deb.pdf)
+  - Kafka: "A Distributed Messaging System for Log Processing" [Jay Kreps (LinkedIn) et al.; Paper; 2011-06](https://notes.stephenholiday.com/Kafka.pdf)
 - Lambda Architecture (Streaming+Batch): Spark ("How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming" [Walmart Global Tech Blog; Blog; 2018-06](https://medium.com/walmartglobaltech/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3))
 - Delta (Lake) Architecture (beyond lambda): Databricks [Databricks; YouTube; 2020](https://www.youtube.com/watch?v=FePv0lro0z8&t=49s&ab_channel=Databricks)
 - Logging: Fluentd, logstash
