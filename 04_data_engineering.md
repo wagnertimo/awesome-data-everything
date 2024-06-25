@@ -74,6 +74,7 @@ A Feature Store is a data management layer for machine learning that allows to s
 - Lambda Architecture (Streaming+Batch): Spark ("How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming" [Walmart Global Tech Blog; Blog; 2018-06](https://medium.com/walmartglobaltech/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3))
 - Delta (Lake) Architecture (beyond lambda): Databricks [Databricks; YouTube; 2020](https://www.youtube.com/watch?v=FePv0lro0z8&t=49s&ab_channel=Databricks)
 - Logging: Fluentd, logstash
+- MapReduce: "Simplified Data Processing on Large Clusters" [Google; Paper; 2004](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
   
 ## Orchestration:
 - Airflow
@@ -128,6 +129,10 @@ A Feature Store is a data management layer for machine learning that allows to s
 
 - "Google Cloud documentation: Guides for GCP products, services and APIs" [Google; Documentation; 2022](https://cloud.google.com/docs)
 - "Cloud Architecture Center: reference architectures, diagrams, design patterns, guidance, and best practices" [Google; Architecture Center; 2022](https://cloud.google.com/architecture)
+
+#### Technology, Services and Products
+
+- Spanner: "Google’s Globally-Distributed Database" [Google; Paper; 2012](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
 
 #### GCP Professional Data Engineer Certification
 
