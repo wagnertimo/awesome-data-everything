@@ -83,7 +83,8 @@ A Feature Store is a data management layer for machine learning that allows to s
 - Hadoop Ecosystem: Core (MapReduce), HDFS, Hive (SQL), Mahout (ML service), Pig (ETL jobs), Yarn ("**Y**et **A**nother **R**esource **N**egotiator") [Zookeeper, HBase, Lucene, Solr, Storm]
 - Spark Ecosystem: Core, Streaming, SQL, MLlib, GraphX
   
-## Data formats
+## File Systems and Data formats
+- GFS: "Google File System" [Google ;Paper; 2003-10](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf)
 - HDFS
 - Parquet
 - Avro
